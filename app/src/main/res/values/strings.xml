@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ForgetfulTransfer</string>
+    <string name="edit_message">Enter a message.</string>
+    <string name="button_send">Display Message</string>
+    <string name="caplocation_text">Capture Current Location</string>
+    <string name="currentLocation_text">Current Location</string>
+    <string name="title_activity_processing_sketch">ProcessingSketchActivity</string>
+</resources>
